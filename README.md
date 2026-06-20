@@ -225,16 +225,16 @@ Therefore, the new onboarding and activation campaign should be launched to all 
 
 ---
 
-## 10. Screenshots Included
+## Screenshots Included
 
-The repository includes the following screenshots:
+### Summary Metrics
+![Summary Metrics](screenshots/summary_metrics.png)
 
-1. summary_metrics.png
-2. hypothesis_test_output.png
-3. kpi_tree_preview.png
+### Hypothesis Test Output
+![Hypothesis Test Output](screenshots/hypothesis_test_output.png)
 
-All screenshots are stored in the screenshots folder and provide evidence for the experiment analysis and decision-making process.
-
+### KPI Tree Preview
+![KPI Tree Preview](screenshots/kpi_tree_preview.png)
 ---
 
 ## Conclusion
